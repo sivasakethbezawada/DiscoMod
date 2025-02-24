@@ -1,0 +1,2 @@
+# DiscoMod
+Discord Moderator Bot
